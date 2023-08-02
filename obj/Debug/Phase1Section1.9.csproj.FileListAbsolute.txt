@@ -1,0 +1,3 @@
+D:\M\OSL\Section10\Phase1Section1.9\Phase1Section1.9\obj\Debug\Phase1Section1.9.csproj.AssemblyReference.cache
+D:\M\OSL\Section10\Phase1Section1.9\Phase1Section1.9\obj\Debug\Phase1Section1.9.csproj.SuggestedBindingRedirects.cache
+D:\M\OSL\Section10\Phase1Section1.9\Phase1Section1.9\obj\Debug\Phase1Section1.9.csproj.CoreCompileInputs.cache
